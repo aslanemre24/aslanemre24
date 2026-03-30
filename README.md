@@ -2,15 +2,16 @@
 
 **Statistics @ MSGSU** · Istanbul, Turkey
 
-Quantitative finance enthusiast building at the intersection of data science, algorithmic trading, and financial modeling.
+Quantitative finance enthusiast building at the intersection of
+data science, algorithmic trading, and financial modeling.
 
 ---
 
 ### 🔭 Currently Building
 
-- **OKX Perpetual Trading Bot** — Autonomous crypto futures bot with SMC strategy + Claude AI as decision brain
-- **Fuzzy Portfolio Optimization** — Thesis on retrospective fuzzy goal programming applied to S&P 500 (2015–2025)
-- **Quant Finance Project Series** — Applied ML/stats projects: mean-variance, Monte Carlo, regime detection
+- **OKX Perpetual Trading Bot** — Autonomous crypto futures bot · SMC strategy · Claude AI decision brain
+- **Fuzzy Portfolio Optimization** — Thesis · Retrospective FGP on S&P 500 (2015–2025)
+- **Quant Finance Projects** — Mean-variance · Monte Carlo · Regime detection
 
 ---
 
@@ -28,20 +29,22 @@ Quantitative finance enthusiast building at the intersection of data science, al
 
 | | Project | Description |
 |---|---------|-------------|
-| 🤖 | [okx-trading-bot](https://github.com/aslanemre24/okx-trading-bot) | Autonomous OKX futures bot — SMC strategy, 100-pt scoring, Claude API brain |
-| 📊 | [financial-portfolio-analysis](https://github.com/aslanemre24/financial-portfolio-analysis) | Personal portfolio tracker — VaR, P&L, scenario analysis (NVDA, TSLA, crypto) |
-| 🎓 | fuzzy-portfolio-optimization *(in progress)* | Thesis — Fuzzy Goal Programming on S&P 500 with regime detection |
+| 🤖 | [okx-trading-bot](https://github.com/aslanemre24/okx-trading-bot) | Autonomous OKX futures bot — SMC strategy · 100-pt scoring · Claude API |
+| 📊 | [financial-portfolio-analysis](https://github.com/aslanemre24/financial-portfolio-analysis) | Portfolio tracker — VaR · P&L · scenario analysis (NVDA · TSLA · crypto) |
+| 🎓 | fuzzy-portfolio-optimization *(in progress)* | Thesis — Fuzzy Goal Programming · S&P 500 · regime detection |
 
 ---
 
 ### 💼 Experience
 
-**QNB Sigorta** · Actuarial Valuation & Modeling · 2025
-**QNB Finansbank** · Finance 101 Intern · 2024
-**Isnet** · Business Analyst Intern · 2023
+| | Company | Role | Year |
+|---|---------|------|------|
+| 🏦 | **QNB Sigorta** | Actuarial Valuation & Modeling | 2025 |
+| 🏦 | **QNB Finansbank** | Finance 101 Intern | 2024 |
+| 💻 | **Isnet** | Business Analyst Intern | 2023 |
 
 ---
 
-### 📫 Reach me
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emreaslan2624)
