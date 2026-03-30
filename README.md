@@ -1,4 +1,4 @@
-# Hi, I'm Emre Aslan 👋
+[# Hi, I'm Emre Aslan 👋
 
 Statistics student at Mimar Sinan Fine Arts University, Istanbul.
 Interested in quantitative finance, algorithmic trading, and financial data science.
@@ -28,3 +28,4 @@ Interested in quantitative finance, algorithmic trading, and financial data scie
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emreaslan2624)
+](https://github.com/aslanemre24/aslanemre24)
